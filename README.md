@@ -18,7 +18,7 @@ The workflow uses **PostgreSQL** with **Visual Studio Code** to import and prepr
 
 ## Deliverables
 
-1. **SQL Script** – `analysis.sql` with all cleaning, transformations, and analysis queries.  
+1. **SQL Script** – `analysis.pgsql` with all cleaning, transformations, and analysis queries.  
 2. **README.md** – this file with setup and execution instructions.  
 3. **Visualization Dashboard** – interactive charts and tables, compatible with Looker Studio.  
 4. **Presentation** – summary of insights and findings (PDF).
