@@ -12,7 +12,7 @@ The analysis is based on three datasets:
 - `cards_data.csv` – containing card details, types, and credit limits  
 - `transactions_data.csv` – containing transaction histories including amounts, merchants, and errors  
 
-The workflow uses **PostgreSQL** with **Visual Studio Code** to import and preprocess the data, followed by a comprehensive SQL script (`analysis.sql`) that performs all data cleaning, transformation, and segmentation.
+The workflow uses **PostgreSQL** with **Visual Studio Code** to import and preprocess the data, followed by a comprehensive SQL script (`analysis.pgsql`) that performs all data cleaning, transformation, and segmentation.
 
 ---
 
