@@ -96,4 +96,9 @@ Once the database is set up and the CSV data is imported and cleaned, the analys
 - Prepare CSVs or tables for dashboards.
 - Connect to Looker Studio for visualization.
 
+# Important Links:
+
+[https://lookerstudio.google.com/reporting/eb8dbef5-0615-4ccb-be8a-c80c75bd0c17]
+
+---
   Goal: The analysis transforms raw transactional data into actionable insights to understand user behavior, prioritize high-value clients, and inform business decisions such as marketing, retention, and client acquisition strategies.
